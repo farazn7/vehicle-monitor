@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+datasets/
+plate_models/
+vehicle_images/
+runs/
+*.pt
+*.onnx
+*.mp4
+*.sqlite*
+*.db
+*.log
